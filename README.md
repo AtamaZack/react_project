@@ -4,7 +4,7 @@ This resource is to help you have a deep understanding of **React** in order to 
 ## Project Levels
 This project is arranged into  **4 Levels** and each level adds new concepts onto what the previous level already contains, this is to help in the step by step understanding of the different concepts implemented in a React application dependant on complexity level.
 
-### Level 01
+### ![Level 01](https://github.com/ZackAtama/react_project/tree/project-level-01)
 - Create a new React App
 - Editing boilerplate code in `App.js`
 - Images and more HTML element tags
