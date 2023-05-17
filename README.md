@@ -10,10 +10,16 @@ This project is arranged into  **4 Levels** and each level adds new concepts ont
 - Images and more HTML element tags
 - Styling elements in `App.js` using `App.css`
 
-### Folders/Files
-- src
+### File Structure
+This is the basic file structure of a new project when created using the `npx create-react-app` command.
+- `public`: Contains entry point of your application file (`index.html`)
+- `src`: Holds all the files that make up your web application, and is the folder you'll interact with the most.
     - App.js
     - App.css
-- package.json
+- `package.json`: This is the file that has the holds your application dependencies and instructions on how to run or build your application.
 - README.md
 - .gitignore
+
+**Note:** There are other folders and files, however, we've only included the folders/files that are most used/important while working on your project.
+
+
